@@ -1,0 +1,1 @@
+Outlook email sending automation tool.
